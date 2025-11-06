@@ -34,21 +34,23 @@ AI quality is not a single score but a *relationship* among interacting dimensio
 
 ## ⚙️ Structure  
 
-📂 Meta-Framework-Integration-v1
+📂Meta-Framework-Integration-v1/
 ├── README.md
-├── /docs
+├── docs/
 │ ├── Phase1_Definition.md
 │ ├── Phase2_Correlation.md
 │ ├── Phase3_Simulation.md
 │ ├── Phase4_Adaptation.md
 │ └── Phase5_Synthesis.md
-├── /metrics
+├── metrics/
 │ ├── deltaS_logic.md
 │ ├── rope_alignment.md
 │ ├── euqs_empathy.md
 │ └── sci_formula.py
-└── /visuals
+└── visuals/
 └── framework_diagram.png
+
+
 
 
 ---
