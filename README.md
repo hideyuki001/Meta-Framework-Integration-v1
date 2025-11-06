@@ -33,7 +33,7 @@ AI quality is not a single score but a *relationship* among interacting dimensio
 ---
 
 ## ⚙️ Structure  
-
+```
 📂Meta-Framework-Integration-v1/
 ├── README.md
 ├── docs/
@@ -49,7 +49,7 @@ AI quality is not a single score but a *relationship* among interacting dimensio
 │ └── sci_formula.py
 └── visuals/
 └── framework_diagram.png
-
+```
 
 
 
