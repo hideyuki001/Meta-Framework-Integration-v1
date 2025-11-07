@@ -1,5 +1,6 @@
 📐 Phase 1 – Synthesis Overview
-1.1 Framework Identity and Conceptual Foundation
+
+## 1.1 Framework Identity and Conceptual Foundation
 ChronoRefiner – Temporal Intelligence Layer
 
 Core Philosophy:
@@ -91,7 +92,7 @@ every generated phrase reshapes the reader’s inner landscape. It asks:
 
 “Is beauty present, even within precision?”
 
-1.2 Conceptual Interface Points
+## 1.2 Conceptual Interface Points
 
 The three frameworks intersect at critical nodes that govern information exchange:
 
@@ -119,7 +120,7 @@ In sensitive contexts, acceptable ΔS range narrows to 0.15 – 0.35.
 
 Temporal continuity prioritizes emotional safety over exploratory freedom.
 
-1.3 System Integration Logic
+## 1.3 System Integration Logic
 ```
 INPUT:  User utterance U(t)
 │
