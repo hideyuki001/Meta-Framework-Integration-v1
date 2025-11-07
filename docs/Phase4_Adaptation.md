@@ -1,6 +1,6 @@
 🔮 Phase 4 – Forecasting and Reflection
 
-##4.1 System Longevity Analysis
+## 4.1 System Longevity Analysis
 Degradation Vectors
 
 Metric Drift Over Time
