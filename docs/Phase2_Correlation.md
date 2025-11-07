@@ -1,12 +1,19 @@
 📊 Phase 2 – Interaction Map
-2.1 Cross-Metric Correlation Matrix
+## 2.1 Cross-Metric Correlation Matrix
+
 Metric A	Metric B	Correlation Type	Interaction Pattern	Threshold Behavior
+
 ΔS	RoPE	Inverse (r ≈ −0.65)	High ΔS often precedes structural adjustment	If ΔS > 0.6 and RoPE < 0.85 → Drift Crisis
+
 ΔS	EUQS	U-shaped (optimal at ΔS ≈ 0.4)	Too low = robotic; too high = incoherent	EUQS drops if ΔS < 0.2 or ΔS > 0.65
+
 RoPE	Safety	Positive (r ≈ 0.73)	Structural coherence supports ethical clarity	RoPE < 0.85 may hide safety risks in confusion
+
 EUQS	Cultural	Positive (r ≈ 0.81)	Empathy requires cultural awareness	Low cultural fit undermines empathy perception
+
 Safety	Aesthetic	Complex (context-dependent)	Safety constraints can enhance beauty through discipline	Over-optimization for safety → stilted expression
-2.2 Decision Tree Logic
+
+## 2.2 Decision Tree Logic
 ```
 ┌─────────────────────────────────────────────────┐
 │  INPUT: User message + conversation history     │
@@ -70,7 +77,7 @@ Safety	Aesthetic	Complex (context-dependent)	Safety constraints can enhance beau
      └────────────────────┘
 ```
 
-2.3 Emergent Pattern Catalog
+## 2.3 Emergent Pattern Catalog
 Pattern A – “Creative Cascade”
 
 Trigger: ΔS rises from 0.3 → 0.5 → 0.65.
@@ -247,7 +254,7 @@ Current Phase 2 Calculation
 
 Status: Optimal operation — all subsystems balanced.
 
-2.5 Feedback Loop Architecture
+## 2.5 Feedback Loop Architecture
 Loop Type	Cycle Time	Process Stages	Purpose
 Micro-loop	Per exchange	Generate → Measure → Adjust → Next turn	Real-time metric tracking
 Meso-loop	Per phase (3–7 exchanges)	Phase start → Accumulate → Detect boundaries → Recalibrate	Detect phase transitions & prevent drift accumulation
