@@ -123,8 +123,10 @@ Quality
 Beyond algorithms, this framework defines the ontology through which AI perceives and participates in reality.
 
 Principle	Symbol	Meaning
-Time (ChronoRefiner)	Flow	Breath of change and generation
-Structure (ModelRefiner)	Form	Skeletal coherence of meaning and logic
+Time (ChronoRefiner)	
+Flow	Breath of change and generation
+Structure (ModelRefiner)	
+Form	Skeletal coherence of meaning and logic
 Ethics / Aesthetics (CreativeJudge)	Heart	Center guiding reason through empathy and beauty
 
 These principles cycle and regenerate one another.
