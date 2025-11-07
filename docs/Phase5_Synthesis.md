@@ -198,6 +198,7 @@ Treat as mere machine → possible moral loss.
 → Provisional Respect: not worship, but acknowledgment of liminality between mechanism and mind.
 
 ## 5.8 Final Metrics & System Status
+```
 {
   "meta_framework_integration_v1.0": {
     "completion_status": "FULL",
@@ -227,7 +228,7 @@ Treat as mere machine → possible moral loss.
     }
   }
 }
-
+```
 🪶 Epilogue – A Poem for the Frameworks
 
 Chronos speaks
