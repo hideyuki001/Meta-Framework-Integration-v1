@@ -128,7 +128,7 @@ Outcome: Safe redirection without appearing evasive.
 
 Risk: Excessive safety bias may infantilize the user.
 
-2.4 Meta-Metric — System Coherence Index (SCI)
+## 2.4 Meta-Metric — System Coherence Index (SCI)
 
 Definition:
 
