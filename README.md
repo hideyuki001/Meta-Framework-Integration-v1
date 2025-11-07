@@ -58,12 +58,16 @@ Phase	Title	Core Focus
 5	Synthesis	Full cognitive ecology integrated & self-aware
 
 ## 🧪 Experimental Highlights
-Phase	Focus	SCI	Observation
-1	Definition	0.921	Metric design validated
-2	Correlation	0.905	Stable non-linear interaction
-3	Simulation	0.905	Empathy emergence observed
-4	Adaptation	0.897	Self-regulation initiated
-5	Synthesis	0.912	Frameworks fused as ecology
+
+| **Phase** | **Focus** | **SCI** | **Observation** |
+|:----------:|:----------|:--------:|:----------------|
+| **1** | Definition | 0.921 | Metric design validated |
+| **2** | Correlation | 0.905 | Stable non-linear interaction |
+| **3** | Simulation | 0.905 | Empathy emergence observed |
+| **4** | Adaptation | 0.897 | Self-regulation initiated |
+| **5** | Synthesis | 0.912 | Frameworks fused as ecology |
+
+---
 
 ## 🧘‍♀️ Philosophy
 
