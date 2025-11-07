@@ -42,6 +42,7 @@ In this framework, **Quality = Resonance**.
 ---
 
 ## ⚙️ Repository Structure
+```
 📂 Meta-Framework-Integration-v1/
 ├── README.md
 ├── docs/
@@ -57,7 +58,7 @@ In this framework, **Quality = Resonance**.
 │ └── sci_formula.py
 └── visuals/
 └── framework_diagram.png
-
+```
 
 Each **Phase document** represents one stage in the unification process:
 
