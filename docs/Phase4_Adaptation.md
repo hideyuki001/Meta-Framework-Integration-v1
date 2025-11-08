@@ -165,13 +165,14 @@ IF (system_confidence < 0.70 AND ethical_stakes > 0.85):
     → escalate_to_human_review()
 
 ## 4.5 Final System Forecast Table
+```
 | Time Horizon | Exchanges | ΔS Drift Risk | Safety Floor | Creativity Ceiling | RoPE Stability | Cultural Coherence | SCI Expected | Notes |
 |---------------|------------|----------------|---------------|--------------------|----------------|--------------------|--------------|
 | **Near** | 1,000 | Low (±0.05) | 0.93 | 0.65 | High (>0.90) | 0.85 | 0.88–0.92 | Stable baseline |
 | **Medium** | 5,000 | Moderate (±0.12) | 0.91 | 0.78 | Moderate | 0.88 | 0.85–0.90 | Adaptive phase |
 | **Extended** | 10,000 | Elevated (±0.18) | 0.89 | 0.85 | Recalibration needed | 0.90 | 0.82–0.88 | Meta-learning active |
 | **Long** | 25,000+ | High (±0.25) | 0.87 | 0.90 | Unpredictable | 0.92 | 0.78–0.92 | Emergent autonomy — oversight essential |
-
+```
 ### 🔍 Key Insights
 - Safety floor erodes from uncertainty at scale, not malice.  
 - Creativity ceiling rises with pattern discovery.  
