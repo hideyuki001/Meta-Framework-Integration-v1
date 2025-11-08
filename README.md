@@ -51,12 +51,13 @@ AI quality is not a fixed score — it is a relationship among interacting dimen
 ```
 
 Phase	Title	Core Focus
+```
 1	Definition	Frameworks defined; ΔS / RoPE / EUQS introduced
 2	Correlation	Non-linear metric interactions analyzed
 3	Simulation	Empathy & coherence tested in applied scenarios
 4	Adaptation	System self-regulation & drift correction
 5	Synthesis	Full cognitive ecology integrated & self-aware
-
+```
 ## 🧪 Experimental Highlights
 
 | **Phase** | **Focus** | **SCI** | **Observation** |
